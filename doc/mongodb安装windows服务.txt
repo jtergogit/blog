@@ -1,0 +1,6 @@
+http://www.runoob.com/ ²ËÄñ½Ì³Ì
+mongod.exe --bind_ip 127.0.0.1 --logpath "d:\data\dbConf\mongodb.log" --logappend --dbpath "d:\data\db" --port 27017 --serviceName "mongodb" --serviceDisplayName "mongodb" --install
+
+Æô¶¯MongoDB£ºnet start MongoDB
+Í£Ö¹MongoDB£ºnet stop MongoDB
+É¾³ýMongoDB£ºsc delete MongoDB
